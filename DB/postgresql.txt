@@ -1,0 +1,14 @@
+postgres:
+password:
+admin:
+postgres:@template1
+postgres:template1
+postgres:postgres
+postgres:password
+postgres:admin
+admin:admin
+admin:password
+admin:template1
+postgres:template1
+
+
