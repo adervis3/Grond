@@ -1,0 +1,9 @@
+root:root
+root:toor
+root:1234
+root:12345
+root:123456
+padmin:padmin
+admin:admin
+admin:password
+monitor:!monitor
