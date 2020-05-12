@@ -10,5 +10,5 @@ admin:admin
 admin:password
 admin:template1
 postgres:template1
-
+postgres:postgres@template1
 
